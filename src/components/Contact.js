@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
     return (
-        <div>
+        <div className={"pageDiv"}>
             <h3>Технически отдел: </h3>
             <p>Васил Велинов – +359 878 778 237, vasiliv@students.npmg.org</p>
             <p>Николай Бойчев – bonda@bonda.tech</p>

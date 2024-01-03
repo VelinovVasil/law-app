@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&family=Nunito:wght@300&family=PT+Sans&family=Poppins&display=swap');
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.pageDiv {
+    margin: 0 auto;
+    /*text-align: center;*/
+    max-width: 80%;
+}
